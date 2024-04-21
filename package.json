@@ -1,0 +1,20 @@
+{
+  "name": "lab_2",
+  "version": "1.0.0",
+  "description": "my_lab_2",
+  "main": "index.js",
+  "scripts": {
+    "test": "init",
+    "lint": "eslint **/*.js --ignore-pattern node_modules/"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "veronika",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
+}
